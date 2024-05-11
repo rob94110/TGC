@@ -8,6 +8,7 @@ func DoIt() {
 
 func DoItAgain() {
 	fmt.Println("DoIt again")
+	fmt.Println("and again")
 }
 
 func ReDoIt() {
