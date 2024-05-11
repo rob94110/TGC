@@ -7,5 +7,5 @@ func DoIt() {
 }
 
 func DoItAgain() {
-	fmt.Println("DoIt")
+	fmt.Println("DoIt again")
 }
