@@ -8,4 +8,5 @@ import (
 
 func TestIt(t *testing.T) {
 	p.DoIt()
+	p.ReDoIt()
 }
