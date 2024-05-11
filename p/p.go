@@ -9,3 +9,7 @@ func DoIt() {
 func DoItAgain() {
 	fmt.Println("DoIt again")
 }
+
+func ReDoIt() {
+	fmt.Println("ReDoIt")
+}
